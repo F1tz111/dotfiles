@@ -1,0 +1,80 @@
+Xsession: X session started for mustafa at Sun May 26 03:47:34 PM CDT 2024
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/mustafa/.Xauthority
+localuser:mustafa being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+discover_other_daemon: 1GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+discover_other_daemon: 1GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+discover_other_daemon: 1GNOME_KEYRING_CONTROL=/run/user/1000/keyring
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Failure: No such entity
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+mutter-Message: 15:47:36.844: Enabling experimental feature 'x11-randr-fractional-scaling'
+Gjs-Message: 15:47:37.624: Profiler is disabled. Not setting up signals.
+Gjs-Message: 15:47:38.124: JS LOG: About to start Cinnamon
+Gjs-Message: 15:47:38.224: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 98 ms
+Gjs-Message: 15:47:38.226: JS LOG: [LookingGlass/info] loading default theme
+Gjs-Message: 15:47:38.421: JS LOG: [LookingGlass/info] loaded at Sun May 26 2024 15:47:38 GMT-0500 (Central Daylight Time)
+Gjs-Message: 15:47:38.421: JS LOG: Cinnamon started at Sun May 26 2024 15:47:38 GMT-0500 (Central Daylight Time)
+Gjs-Message: 15:47:38.421: JS LOG: GPU offload supported: false
+Gjs-Message: 15:47:38.431: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Gjs-Message: 15:47:38.431: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Gjs-Message: 15:47:38.432: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+Gjs-Message: 15:47:38.634: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 93 ms
+Gjs-Message: 15:47:38.655: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 15:47:38.703: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 69 ms
+Gjs-Message: 15:47:38.711: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 7 ms
+Gjs-Message: 15:47:38.718: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 6 ms
+Gjs-Message: 15:47:38.963: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 245 ms
+blueman-applet 15.47.38 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 15:47:38.993: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 15:47:38.993: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 15:47:38.998: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 35 ms
+Gjs-Message: 15:47:39.012: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 14 ms
+Gjs-Message: 15:47:39.018: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 6 ms
+Gjs-Message: 15:47:39.021: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 3 ms
+Gjs-Message: 15:47:39.024: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 15:47:39.027: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 6 ms
+Gjs-Message: 15:47:39.050: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 22 ms
+Gjs-Message: 15:47:39.059: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 9 ms
+
+** (nemo-desktop:33819): WARNING **: 15:47:39.100: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (csd-power:33633): CRITICAL **: 15:47:39.121: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 15:47:39.142: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 83 ms
+
+** (nemo-desktop:33819): WARNING **: 15:47:39.150: The theme appears to have no nemo support.  Adding some...
+Fractional scaling active: False
+Gjs-Message: 15:47:39.187: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 44 ms
+** Message: 15:47:39.187: nemo-desktop: session is cinnamon, establishing proxy
+Trying to connect to logind...
+Starting screensaver...
+Cinnamon Screensaver support not found in current theme - adding some...
+cinnamon-session[33578]: WARNING: t+4.85219s: Detected that screensaver has appeared on the bus
+Successfully using logind
+blueman-applet 15.47.39 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+Gjs-Message: 15:47:39.372: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 185 ms
+Gjs-Message: 15:47:39.373: JS LOG: [LookingGlass/info] AppletManager started in 951 ms
+Gjs-Message: 15:47:39.377: JS LOG: [LookingGlass/info] Cinnamon took 1253 ms to start
+Gjs-Message: 15:47:39.388: JS LOG: Unknown network device type, is 32
+Gjs-Message: 15:47:39.414: JS LOG: [LookingGlass/info] Hiding systray: network
+20:47:41:952 Gs  Only 0 apps for recent list, hiding
+Gjs-Message: 15:47:42.759: JS LOG: Enabling WindowAttentionHandler
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3200003
+blueman-applet 15.48.04 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Process already running (98:Address already in use). Exiting.
+cinnamon-session[33578]: WARNING: t+49.33120s: Detected that screensaver has left the bus
+Error in sys.excepthook:
+
+Original exception was:
+Error in sys.excepthook:
+
+Original exception was:
+Error in sys.excepthook:
+
+Original exception was:
+Window manager warning: WM_TRANSIENT_FOR window 0x400a596 for 0x400a73d window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4000028.

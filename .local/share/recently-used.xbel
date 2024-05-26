@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mustafa/Downloads/linux-assistant.deb" added="2024-05-26T09:48:30.979228Z" modified="2024-05-26T09:49:19.473178Z" visited="2024-05-26T09:48:30.979230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T09:48:30.979232Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;gdebi-gtk %f&apos;" modified="2024-05-26T09:49:19.473176Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/.screenlayout/mylayout" added="2024-05-26T19:04:29.666406Z" modified="2024-05-26T19:04:29.666409Z" visited="2024-05-26T19:04:29.666407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2024-05-26T19:04:29.666408Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Downloads/adrien-olichon-gOdavfpH-3s-unsplash.jpg" added="2024-05-26T19:18:32.877764Z" modified="2024-05-26T19:18:32.877770Z" visited="2024-05-26T19:18:32.877765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T19:18:32.877768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/.screenlayout/mylayout.sh" added="2024-05-26T19:50:54.095485Z" modified="2024-05-26T19:50:54.095489Z" visited="2024-05-26T19:50:54.095486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2024-05-26T19:50:54.095487Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Pictures/wall.jpg" added="2024-05-26T19:54:54.497111Z" modified="2024-05-26T19:54:54.497116Z" visited="2024-05-26T19:54:54.497112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh %F&apos;" modified="2024-05-26T19:54:54.497114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Downloads/3CehTud-debian-background.jpg" added="2024-05-26T20:01:09.747883Z" modified="2024-05-26T20:01:09.747899Z" visited="2024-05-26T20:01:09.747885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T20:01:09.747892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Downloads/Debian%20Desktop%20Wallpaper.png" added="2024-05-26T20:05:12.059331Z" modified="2024-05-26T20:05:12.059343Z" visited="2024-05-26T20:05:12.059332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T20:05:12.059340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Downloads/MesloLGS%20NF%20Regular.ttf" added="2024-05-26T20:29:35.033959Z" modified="2024-05-26T20:29:35.033966Z" visited="2024-05-26T20:29:35.033960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T20:29:35.033962Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Downloads/MesloLGS%20NF%20Bold.ttf" added="2024-05-26T20:30:21.472201Z" modified="2024-05-26T20:30:21.472220Z" visited="2024-05-26T20:30:21.472206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T20:30:21.472212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/Downloads/MesloLGS%20NF%20Italic.ttf" added="2024-05-26T20:31:18.571940Z" modified="2024-05-26T20:31:18.571945Z" visited="2024-05-26T20:31:18.571941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T20:31:18.571943Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mustafa/New%20Volume/bookmarks/bookmarks-2024-05-26.json" added="2024-05-26T20:49:13.202627Z" modified="2024-05-26T20:49:13.202632Z" visited="2024-05-26T20:49:13.202628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2024-05-26T20:49:13.202630Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

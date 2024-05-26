@@ -1,0 +1,154 @@
+Xsession: X session started for mustafa at Sun May 26 03:06:01 PM CDT 2024
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/mustafa/.Xauthority
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=i3
+localuser:mustafa being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/bin/sh: 0: Illegal option --
+Current option settings
+errexit         on
+noglob          on
+ignoreeof       on
+interactive     on
+monitor         on
+noexec          on
+stdin           on
+xtrace          on
+verbose         on
+vi              on
+emacs           on
+noclobber       on
+allexport       on
+notify          on
+nounset         on
+privileged      on
+nolog           on
+debug           on
+Failure: No such entity
+Process already running (98:Address already in use). Exiting.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+blueman-applet 15.06.01 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 15.06.01 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 15.06.26 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+i3status: exiting due to signal.
+[libi3] ../i3bar/src/main.c i3bar version 4.22 (2023-01-02)
+[libi3] ../libi3/font.c Using Pango font monospace, size 8
+05/26/2024 03:06:34 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:06:34 PM - ERROR: Received ExposeEvent for unknown window 0x00800000
+05/26/2024 03:06:34 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+i3status: exiting due to signal.
+[libi3] ../i3bar/src/main.c i3bar version 4.22 (2023-01-02)
+[libi3] ../libi3/font.c Using Pango font monospace, size 8
+05/26/2024 03:08:42 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:08:42 PM - ERROR: Received ExposeEvent for unknown window 0x00800000
+05/26/2024 03:08:42 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:08:42 PM - ERROR: Received ConfigureNotify for unknown window 0x00800008
+05/26/2024 03:08:42 PM - ERROR: Received ExposeEvent for unknown window 0x00800008
+05/26/2024 03:08:42 PM - ERROR: Received ConfigureNotify for unknown window 0x00800008
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+i3status: exiting due to signal.
+[libi3] ../i3bar/src/main.c i3bar version 4.22 (2023-01-02)
+[libi3] ../libi3/font.c Using Pango font monospace, size 8
+05/26/2024 03:08:59 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:08:59 PM - ERROR: Received ExposeEvent for unknown window 0x00800000
+05/26/2024 03:08:59 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:08:59 PM - ERROR: Received ConfigureNotify for unknown window 0x00800008
+05/26/2024 03:08:59 PM - ERROR: Received ExposeEvent for unknown window 0x00800008
+05/26/2024 03:08:59 PM - ERROR: Received ConfigureNotify for unknown window 0x00800008
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+i3status: exiting due to signal.
+[libi3] ../i3bar/src/main.c i3bar version 4.22 (2023-01-02)
+[libi3] ../libi3/font.c Using Pango font monospace, size 8
+05/26/2024 03:10:25 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:10:25 PM - ERROR: Received ExposeEvent for unknown window 0x00800000
+05/26/2024 03:10:25 PM - ERROR: Received ConfigureNotify for unknown window 0x00800000
+05/26/2024 03:10:25 PM - ERROR: Received ConfigureNotify for unknown window 0x00800008
+05/26/2024 03:10:25 PM - ERROR: Received ExposeEvent for unknown window 0x00800008
+05/26/2024 03:10:25 PM - ERROR: Received ConfigureNotify for unknown window 0x00800008
+05/26/2024 03:10:25 PM - ERROR: Received ConfigureNotify for unknown window 0x0080000b
+05/26/2024 03:10:25 PM - ERROR: Received ExposeEvent for unknown window 0x0080000b
+05/26/2024 03:10:25 PM - ERROR: Received ConfigureNotify for unknown window 0x0080000b
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/bin/bash: line 3: soft: command not found
+install: missing file operand
+Try 'install --help' for more information.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+** (nemo:30210): WARNING **: 15:33:01.652: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo:30210): WARNING **: 15:33:01.690: The theme appears to have no nemo support.  Adding some...
+The snap command lets you install, configure, refresh and remove snaps.
+Snaps are packages that work across many different Linux distributions,
+enabling secure delivery and operation of the latest apps and utilities.
+
+Usage: snap <command> [<options>...]
+
+Commonly used commands can be classified as follows:
+
+           Basics: find, info, install, remove, list
+          ...more: refresh, revert, switch, disable, enable, create-cohort
+          History: changes, tasks, abort, watch
+          Daemons: services, start, stop, restart, logs
+      Permissions: connections, interface, connect, disconnect
+    Configuration: get, set, unset, wait
+      App Aliases: alias, aliases, unalias, prefer
+          Account: login, logout, whoami
+        Snapshots: saved, save, check-snapshot, restore, forget
+           Device: model, remodel, reboot, recovery
+     Quota Groups: set-quota, remove-quota, quotas, quota
+  Validation Sets: validate
+        ... Other: warnings, okay, known, ack, version
+      Development: validate
+
+For more information about a command, run 'snap help <command>'.
+For a short summary of all commands, run 'snap help --all'.
+
+** (nemo:32490): WARNING **: 15:42:23.783: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo:32490): WARNING **: 15:42:23.822: The theme appears to have no nemo support.  Adding some...
+
+** (nemo:33403): WARNING **: 15:47:08.951: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo:33403): WARNING **: 15:47:08.987: The theme appears to have no nemo support.  Adding some...
+[libi3] ../libi3/font.c Using Pango font monospace, size 8
+[libi3] ../i3-nagbar/main.c Found current focus at x = -2 / y = -2.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+button pressed on x = 1583, y = 13
+button released on x = 1583, y = 13
+argv0 = i3-nagbar
+terminal_cmd = /run/user/1000/i3/nagbar-cmd.33438.nagbar_cmd
+executing: /run/user/1000/i3/nagbar-cmd.33438.nagbar_cmd
+i3status: exiting due to signal.
+[libi3] ../i3bar/src/main.c i3bar version 4.22 (2023-01-02)
+[libi3] ../libi3/font.c Using Pango font monospace, size 8
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+button pressed on x = 1583, y = 13
+button released on x = 1583, y = 13
+argv0 = i3-nagbar
+terminal_cmd = /run/user/1000/i3/nagbar-cmd.33438.nagbar_cmd
+executing: /run/user/1000/i3/nagbar-cmd.33438.nagbar_cmd
