@@ -1,1 +1,1 @@
-# Custom i3wm config
+# My custom i3wm config
